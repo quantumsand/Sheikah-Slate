@@ -16,4 +16,4 @@ The future hardware goals are to manufacture a single PCB with open source schem
 
 This repo is a work in progress.
 
-[![Prototype](/img/sheikah-slate-early-prototype.jpg)]
+![Prototype](/img/sheikah-slate-early-prototype.jpg)
